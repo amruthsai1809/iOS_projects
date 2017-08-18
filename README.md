@@ -18,7 +18,7 @@ All the features are implemented using Firebase.
 
 Some of the screen shots of the application are shown below 
 
-https://drive.google.com/open?id=0B0r0nuRKNwy5YkY4WmpjRGpwaEU
+(https://drive.google.com/open?id=0B0r0nuRKNwy5YkY4WmpjRGpwaEU)
 
 
 
