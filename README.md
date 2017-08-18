@@ -27,5 +27,3 @@ Some of the screen shots of the application are shown below
 
 
 
-
-
