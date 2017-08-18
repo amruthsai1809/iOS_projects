@@ -6,6 +6,9 @@
 build/
 DerivedData/
 
+.DS_Store
+Thumbs.db
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
